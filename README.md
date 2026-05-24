@@ -1,23 +1,30 @@
 # Blog
 
-A simple Markdown blog repository for technical notes and learning summaries.
+Technical writing repository for AI, MLOps, computer vision, and cloud learning notes.
+
+The goal is not to publish random notes. The goal is to show how I think: explain concepts clearly, connect projects to engineering decisions, and document what I learn while building.
 
 ## Structure
 
 ```text
 content/
   vertex-generative-ai-overview.md
+  building-an-ai-mlops-portfolio.md
+docs/
+  editorial-calendar.md
 ```
 
-## Posts
+## Published Drafts
 
 - [Vertex Generative AI Overview](content/vertex-generative-ai-overview.md)
+- [Building an AI/MLOps Portfolio](content/building-an-ai-mlops-portfolio.md)
 
-## Status
+## Writing Standard
 
-Baseline structure is complete:
+Every article should include:
 
-- project README
-- content folder
-- first cleaned article
-- `.gitignore`
+- clear problem statement
+- practical takeaway
+- links to related projects when relevant
+- honest limitations
+- next steps
