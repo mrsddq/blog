@@ -2,3 +2,15 @@
 .vscode/
 *.log
 drafts/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+dist/
+build/
+coverage/
+reports/
+outputs/
+.env
