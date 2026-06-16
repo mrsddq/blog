@@ -1,4 +1,4 @@
-# Blog
+# AI/ML Technical Blog
 
 Technical writing repository for AI, MLOps, computer vision, and cloud learning notes.
 

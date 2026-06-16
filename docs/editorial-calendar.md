@@ -7,8 +7,8 @@
 | YOLOv8 object detection workflow | explain training/evaluation loop | `yolov8-detection` |
 | U-Net segmentation limitations | explain medical segmentation tradeoffs | `medical-segmentation` |
 | ViT robustness and attention rollout | explain XAI carefully | `vit-robustness-xai` |
-| Kubeflow rental pipeline | explain MLOps pipeline thinking | `mlops-project` |
-| DevOps path from Jenkins to Terraform | explain deployment learning path | `devops` |
+| Kubeflow rental pipeline | explain MLOps pipeline thinking | `rental-price-mlops-pipeline` |
+| DevOps path from Jenkins to Terraform | explain deployment learning path | `devops-learning-archive` |
 
 ## Writing Cadence
 
